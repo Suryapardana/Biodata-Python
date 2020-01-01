@@ -1,9 +1,5 @@
 #Coded By EvCf1703
 #Coded By Angga's
-#Samlekom mamang :v
-#Tools simple
-#DONT RECODE 
-
 
 
 print("\033[1;94m**********     **      ***********       [ Coded By Angga Surya Pardana ] ")
@@ -15,6 +11,7 @@ print("\033[1;94m*         *    **     *           * ")
 print("\033[1;94m*         *    **     *           * ")
 print("\033[1;94m*         *    **     *           * ") 
 print("\033[1;94m**********     **      *********** ")
+
 
 
 
