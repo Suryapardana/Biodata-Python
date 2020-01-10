@@ -5,5 +5,5 @@
 - Fungi untuk data diri Pribadi
 
 ## Cara Menggunakan
--- ***bash install.sh***
--- ***python2 biosekolah.py / python2 Biodiri.py***
+- ***bash install.sh***
+- ***python2 biosekolah.py / python2 Biodiri.py***
